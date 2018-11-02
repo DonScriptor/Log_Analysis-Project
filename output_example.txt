@@ -1,0 +1,33 @@
+# First Function:
+
+              title               | views
+----------------------------------+--------
+ Candidate is jerk, alleges rival | 338647
+ Bears love berries, alleges bear | 253801
+ Bad things gone, say good people | 170098
+
+
+
+ # Second Function;
+
+ viewscount |          name
+------------+------------------------
+    507594 | Ursula La Multa
+    423457 | Rudolf von Treppenwitz
+    170098 | Anonymous Contributor
+     84557 | Markoff Chaney
+(4 rows)
+
+# Third Function;
+
+* error messages percentage more than 1 %
+(datetime.date(2016, 7, 1), 3.26831158765017)
+ ---------------------------------
+(datetime.date(2016, 7, 31), 2.7592976333297)
+ ---------------------------------
+(datetime.date(2016, 7, 26), 2.32630843355769)
+ ---------------------------------
+(datetime.date(2016, 7, 10), 2.32156949108994)
+ ---------------------------------
+(datetime.date(2016, 7, 27), 2.32156949108994)
+
